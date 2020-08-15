@@ -1,0 +1,55 @@
+{
+  "authenticationDatabase" : {
+    "529fd6cd5469b9f29ebe24036d8f7de0" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1MjlmZDZjZDU0NjliOWYyOWViZTI0MDM2ZDhmN2RlMCIsInlnZ3QiOiIwNjZlZDFmYjhhNDA0ZWU3OGVhYjg5OWYxMmFjNzQ3NCIsInNwciI6IjhkODhmYTc2ZTdhMTRiOTdiZTMwNDY5ZjFiZDFlMDQxIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE1OTY2NzU5MTEsImlhdCI6MTU5NjUwMzExMX0.k9-WfhWPnI45dcJN-brZfdcOBXA06augFaJdgYLg1iU",
+      "profiles" : {
+        "8d88fa76e7a14b97be30469f1bd1e041" : {
+          "displayName" : "Eason2008"
+        }
+      },
+      "properties" : [],
+      "username" : "aeros.liu@gmail.com"
+    }
+  },
+  "clientToken" : "a93dcb7140c2437994dcaa956863cb9b",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "815bffb9f35ce36901a46102840cb79d" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "2020-08-13T09:25:20.596Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    },
+    "870fa11e2f111cdf5e5552c09081f766" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "2020-06-14T03:28:34.501Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    }
+  },
+  "selectedUser" : {
+    "account" : "529fd6cd5469b9f29ebe24036d8f7de0",
+    "profile" : "8d88fa76e7a14b97be30469f1bd1e041"
+  },
+  "settings" : {
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : true,
+    "keepLauncherOpen" : false,
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}
